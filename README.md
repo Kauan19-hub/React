@@ -8,6 +8,8 @@
 
 ###
 
+Nesse projeto, eu mostrarei um pouco sobre a linguagem React, e s linguagem Vite!
+
 **<h3>📌 Descrição:</h3>**
 
 ###
